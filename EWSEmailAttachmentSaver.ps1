@@ -79,7 +79,6 @@ Function FindTargetFolder($folderpath) {
             break
         }	
     }
-    $Global:findFolder = $tfTargetFolder
 }
 
 Function FindTargetEmail($subject) {
